@@ -1,0 +1,8 @@
+Le funzioni di introspezione sono quelle che permettono di fornire informazioni su un oggetto runtime e python ha un ottimo supporto di introspezione.
+TYPE()
+La funzione type() permette di conoscere il tipo di oggetto passato come argomento a questa funzione.
+DIR()
+La funzione dir() permette di ottenere i nomi delle funzioni che sono definiti in un modulo, distinguendo quelli che vi sono di default con un underscore all'inizio e alla fine, mentre quelli senza sono quelli definiti dall'utente.
+HELP()
+La funzione help() è disponibile per ogni modulo e oggetto per permettere di conoscere la documentazione di ogni funzione (struttura e output).
+Esempi dell'utilizzo delle varie funzioni in main.
