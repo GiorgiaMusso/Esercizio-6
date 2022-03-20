@@ -6,4 +6,5 @@ La funzione dir() permette di ottenere i nomi delle funzioni che sono definiti i
 HELP()
 La funzione help() è disponibile per ogni modulo e oggetto per permettere di conoscere la documentazione di ogni funzione (struttura e output).
 In particolare nel caso di funzioni scritte dall'utente, restituisce la stringa di spiegazione nella sintassi di costruzione della funzione.
+
 Esempi dell'utilizzo delle varie funzioni in main.
